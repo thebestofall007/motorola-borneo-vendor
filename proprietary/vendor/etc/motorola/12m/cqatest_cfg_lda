@@ -1,0 +1,6 @@
+<DISPLAY_BORDER_LINE_SETTINGS>,START_X=114-719-650-0,START_Y=0-88-1600-1520,STOP_X=610-719-80-0,STOP_Y=0-1540-1600-80,DEFAULT_COUNT=256
+<DISPLAY_BORDER_ARC_SETTINGS>,START_X=0-610-720-118,START_Y=100-0-1530-1600,STOP_X=115-720-610-0, STOP_Y=0-98-1600-1510,RADIUS=104-104-100-100
+com.motorola.motocit.display.testPatterns.WhiteWithBlackBorder
+com.motorola.motocit.display.testPatterns.BlackPattern
+com.motorola.motocit.display.testPatterns.BlackWithWhiteBorder2
+com.motorola.motocit.touchscreen.Touch_MXT224
